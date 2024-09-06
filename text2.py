@@ -1,2 +1,2 @@
-msg = "Today is September 2nd, 2024"
+msg = "Today is September 6th, 2024"
 print(msg)
